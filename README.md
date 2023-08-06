@@ -15,7 +15,7 @@ I'm an eager learner but I also share what I learn with the people I work with.
 
 - Twitter: [@jcmunav63](https://twitter.com/jcmunav63)
 
-- LinkedIn: [https://www.linkedin.com/in/juan-carlos-mu%C3%B1oz-navarrete-5a15b6276/]
+- LinkedIn: [@jcmunavv63](https://www.linkedin.com/in/juan-carlos-mu%C3%B1oz-navarrete-5a15b6276/)
 
 ### Technologies I work with:
   - HTTML5
