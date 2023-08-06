@@ -11,9 +11,9 @@ And I also want to put in practice my skills
 I'm an eager learner but I also share what I learn with the people I work with.
 
 ### Contact me:
-  GitHub: [@jcmunav63](https://github.com/jcmunav63)
-  Twitter: [@jcmunav63](https://twitter.com/jcmunav63)
-  LinkedIn: [https://www.linkedin.com/in/juan-carlos-mu%C3%B1oz-navarrete-5a15b6276/]
+- GitHub: [@jcmunav63](https://github.com/jcmunav63)
+- Twitter: [@jcmunav63](https://twitter.com/jcmunav63)
+- LinkedIn: [https://www.linkedin.com/in/juan-carlos-mu%C3%B1oz-navarrete-5a15b6276/]
 
 ### Technologies I work with:
   - HTTML5
