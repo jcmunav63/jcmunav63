@@ -1,16 +1,26 @@
-### Hi there 👋
+## Hello, My name is Juan Carlos! 👋
 
-<!--
-**jcmunav63/jcmunav63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Who am I:
+I'm an industrial engineer, a university professor, and a future Full-Stack Developer.
+I'm currently studying in the full-stack program at Microverse. It demands a full-time commitment, and it's helping me not only to learn web technologies but to communicate and work collaboratively with many people from all over the world.
+I have a solid background in engineering, production, and quality assurance, and I've been also involved in different areas like purchasing, planning, sales, customer service, and software development.
 
-Here are some ideas to get you started:
+###My near future goals:
+My main goals for the near future are to learn good skills for web development and also for data analysis.
+And I also want to put in practice my skills 
+I'm an eager learner but I also share what I learn with the people I work with.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###Contact me:
+  GitHub: [@jcmunav63](https://github.com/jcmunav63)
+  Twitter: [@jcmunav63](https://twitter.com/jcmunav63)
+  LinkedIn: [https://www.linkedin.com/in/juan-carlos-mu%C3%B1oz-navarrete-5a15b6276/]
+
+### Technologies I work with:
+  - HTTML5
+  - CSS3
+  - JavaScript
+  - CSS Grid
+  - CSS Flexbox
+  - Git / Github
+  - PHP / Laravel
+  - Java
