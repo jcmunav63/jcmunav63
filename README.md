@@ -7,8 +7,8 @@ I have a solid background in engineering, production, and quality assurance, and
 
 ### My near future goals:
 My main goals for the near future are to learn good skills for web development and also for data analysis.
-And I also want to put in practice my skills 
-I'm an eager learner but I also share what I learn with the people I work with.
+And I also want to put into practice my skills in a new tech job.
+I'd like to keep learning new skills and I'd also like to share what I learn with the people I work with.
 
 ### Contact me:
 - GitHub: [@jcmunav63](https://github.com/jcmunav63)
